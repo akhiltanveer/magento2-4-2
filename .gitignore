@@ -58,6 +58,7 @@ atlassian*
 
 /vendor
 
+!/vendor/magento/module-sales-rule
 /update
 
 /phpserver
