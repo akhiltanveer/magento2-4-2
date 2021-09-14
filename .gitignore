@@ -58,11 +58,10 @@ atlassian*
 /var
 
 
+!/vendor/magento/module-sales-rule/**
 /vendor/magento
 /vendor/swissup
 /vendor/*.*
-!/vendor/magento/module-sales-rule/**
-
 /update
 
 /phpserver
