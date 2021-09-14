@@ -58,8 +58,7 @@ atlassian*
 /var
 
 
-!/vendor/magento/module-sales-rule/**
-/vendor/magento
+!/vendor/magento
 /vendor/swissup
 /vendor/*.*
 /update
