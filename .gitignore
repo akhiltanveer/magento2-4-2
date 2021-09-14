@@ -18,7 +18,7 @@ atlassian*
 /bin
 
 /dev/shell
-
+!/app/code/**
 /dev/tests/*/framework
 /dev/tests/*/testsuite/Magento
 /dev/tests/*/tmp
@@ -56,9 +56,10 @@ atlassian*
 
 /var
 
+!/vendor/magento/module-sales-rule/**
+
 /vendor
 
-!/vendor/magento/module-sales-rule
 /update
 
 /phpserver
